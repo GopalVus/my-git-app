@@ -1,2 +1,2 @@
 my first app
-changes in feature
+changes for conflict
